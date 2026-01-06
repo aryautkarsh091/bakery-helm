@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bakery:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-06T07:17:47.465643784Z"
+    description: A Helm chart for apps with shared Ingress and Autoscaling
+    digest: 65d894bcc9858db0e4a990dfcc8062ce3b3200cc82a19c952ac545390d262120
+    name: bakery
+    type: application
+    urls:
+    - https://github.com/aryautkarsh091/bakery-helm/releases/download/bakery-0.1.6/bakery-0.1.6.tgz
+    version: 0.1.6
+generated: "2026-01-06T07:17:47.465653753Z"
