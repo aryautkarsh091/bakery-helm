@@ -1,0 +1,8 @@
+apiVersion: v2
+name: my-app
+description: A Helm chart for apps with shared Ingress and Autoscaling
+type: application
+version: 0.1.2
+appVersion: "1.0.0"
+
+
