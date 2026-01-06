@@ -1,8 +1,8 @@
 apiVersion: v2
-name: my-app
+name: bakery
 description: A Helm chart for apps with shared Ingress and Autoscaling
 type: application
-version: 0.1.5
+version: 0.1.6
 appVersion: "1.0.0"
 
 

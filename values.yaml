@@ -8,7 +8,7 @@ runtimeClassName: "kata-qemu"
 image:
   repository: nginx # CHANGE THIS to your app image
   pullPolicy: IfNotPresent
-  tag: "latest4"
+  tag: "latest5"
 
 autoscaling:
   enabled: true
